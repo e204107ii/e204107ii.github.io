@@ -1,0 +1,20 @@
+h1{
+    background-color: antiquewhite;
+    color: indianred;
+    text-align: center;
+}
+h2{
+    background-color: antiquewhite;
+    color: indianred;
+    text-align: center;
+}
+table{
+    background-color:#e4dcff; 
+    text-align: center;
+}
+body{
+    background-image: url(../image/f43d3b51d644b197a51496b11e7808bf.jpg);
+}
+ol{
+    background-image: url(../image/images.jpg);
+}
