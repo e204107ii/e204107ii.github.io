@@ -18,14 +18,15 @@ div.menu2{
      width: 250px;
      height: 320px;
         margin-right:50px;
+    background-color: gray;
     
 }
 div.menu3{
     font-size: 19px;
     width: 250px;
     height: 100px;
-    color: white;
-    text-align: center;
+    color: black;
+    text-align: left;
      margin-bottom: 10px;
     background-color: darkred;
     
@@ -35,25 +36,25 @@ div.menu4{
       width: 700px;
     height: 300px;
  
-     color: white;
+     color: black;
     text-align: center;
-    background-color: mediumblue;
+    background-color: black;
 }
 div.menu5{
     font-size: 10px;
       width: 700px;
     height: 20px;
  
-     color: white;
+     color: black;
     text-align: left;
-    background-color: skyblue;
+    background-color: blue;
 }
 div.footer{
     width: 1000px;
     height: 40px;
-    background-color: black;
+    background-color: orange;
     font-size: 20px;
-    color: white;
+    color: black;
     text-align: right;   
 }
 div.menu{
