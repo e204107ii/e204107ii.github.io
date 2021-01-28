@@ -1,0 +1,72 @@
+div.title{
+    width: 1000px;
+    height: 40px;
+    margin-bottom: 20px;
+    text-align:center;
+     font-size: 30px;
+    color: palevioletred;
+}
+div.menu{
+     display: inline-block;
+    font-size: 0;
+    width: 1000px;
+    height: 650px;
+    vertical-align : top;
+      margin-bottom:20px;
+}
+div.menu2{
+        display: inline-block;
+    vertical-align : top;
+     width: 250px;
+     height: 320px;
+        margin-right:50px;
+    
+}
+div.menu3{
+    font-size: 30px;
+    width: 250px;
+    height: 100px;
+    color: lightpink;
+    text-align: left;
+     margin-bottom: 10px;
+    text-align:center;
+    padding: 10px;
+}
+div.image{
+     font-size: 10px;
+      width: 700px;
+    height: 300px;
+ 
+     color: black;
+    text-align: center;
+    background-color: black;
+}
+div.image2{
+     font-size: 10px;
+      width: 700px;
+    height: 300px;
+    margin-top:10px;
+ 
+     color: black;
+    text-align: center;
+    background-color: black;
+}
+div.moji{
+    font-size: 15px;
+      width: 700px;
+    height: 50px;
+     color: darkgrey;
+    text-align: left;
+
+}
+
+
+div.menu{
+ font-size:0;    
+}
+
+div.rap{
+    width: 1000px;
+       margin:0px auto;
+ 
+}
